@@ -1,0 +1,27 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "\"build a bot in node.js on ms bot framework\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierkajdan/mybot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "olivierkajdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivierkajdan/mybot/issues"
+  },
+  "homepage": "https://github.com/olivierkajdan/mybot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "python": "0.0.4",
+    "restify": "^6.3.4"
+  }
+}
